@@ -1,0 +1,9 @@
+1.程序运行方式
+	安装所需环境(pytorch 1.12.1 + cuda 11.3)
+
+2. 运行 handleIEMOCAP.py
+	运行 train3.py
+	运行 tripletloss_dataprocess2.py 
+	运行 diffusion_model_triplet.py  (Diffusion Model.py文件需要和diffusion_model_triplet.py文件放在同一个目录下)
+
+3. 数据集  iemocap(开源)
